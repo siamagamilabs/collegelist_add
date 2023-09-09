@@ -1,1 +1,17 @@
+{
+ "colleges": [
+  {
+    "name": "BAFSC",
+    "url": "www.bafsc.edu.bd"
+  },
+  {
+    "name": "MCC",
+    "url": "mcc.edu.bd"
+  },
+  {
+    "name": "MMDC",
+    "url": "mmdc.edu.bd"
+  },
+]
+}
 
