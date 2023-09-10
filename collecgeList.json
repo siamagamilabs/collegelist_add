@@ -1,15 +1,15 @@
 {
  "colleges": [
   {
-    "name": "BAFSC",
+    "name": "BAF Shaheen College",
     "url": "www.bafsc.edu.bd"
   },
   {
-    "name": "MCC",
+    "name": "Mahila College Chattogram",
     "url": "mcc.edu.bd"
   },
   {
-    "name": "MMDC",
+    "name": "Mehendigonj Mohila College",
     "url": "mmdc.edu.bd"
   },
 ]
